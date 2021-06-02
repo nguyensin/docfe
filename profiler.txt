@@ -1,3 +1,1 @@
-{
-    "urlAPIGetAccessToken": "https://oauth-stg.sb2.club/oauth/token"
-}
+https://sites.google.com/view/docfe/home
