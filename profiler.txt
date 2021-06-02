@@ -1,3 +1,3 @@
 {
-    "urlAPIGetAccessToken": "https://oauth-stg.sb2.club/oauth/tok"
+    "urlAPIGetAccessToken": "https://oauth-stg.sb2.club/oauth/token"
 }
